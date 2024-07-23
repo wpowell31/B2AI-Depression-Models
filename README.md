@@ -19,7 +19,7 @@ pip install xgboost
 pip install catboost
 ```
 
-3. Provess the data
+3. Process the data
 ```
 python processv02.py
 ```
