@@ -31,6 +31,6 @@ python xgb2.1.py
 python cat2.py
 ```
 
-Running thee scripts will produce the outputs that are included in this repository.
+Running these scripts will produce the outputs that are included in this repository.
 
 By Will Powell
